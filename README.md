@@ -14,4 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Cleisson Cardoso and I am iniciating code. I am learning code in Devclub.
+I am Cleisson Cardoso and I am an iniciating code. I am learning code in Devclub.
+<br>
+<br>
+<h1>My Skills</h1>
+<br>
+-HTML
+<br>
+-CSS
+<br>
+-Intermediate English
