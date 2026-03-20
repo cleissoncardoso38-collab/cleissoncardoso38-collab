@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I am Cleisson Cardoso and I am an iniciating code. I am learning code in Devclub.
 <br>
 <br>
-<h1>My Skills</h1>
+<h2>My Skills</h2>
 <br>
 -HTML
 <br>
