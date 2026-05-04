@@ -1,11 +1,11 @@
-# Hi 👋, I'm Cleisson Cardoso
+# 👋 Olá, eu sou Cleisson Cardoso
+🚀 Desenvolvedor Full Stack em formação
 
-🚀 **Junior Programmer Developer  | JavaScript & Node**  
-🇧🇷 Brazil
+Atualmente estou me especializando em desenvolvimento Full Stack Web, com foco em criar aplicações modernas, funcionais e bem estruturadas.
 
-I am learning how to **develop webpages**, **Node.js APIs**, and **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
+Tenho mais de 20 anos de experiência no setor financeiro, atuando com empréstimo consignado para funcionários públicos, servidores federais e aposentados do INSS. Essa trajetória me trouxe forte visão analítica, responsabilidade e foco em resultados.
 
+Hoje, estou direcionando minha carreira para a área de tecnologia, unindo experiência profissional, disciplina e aprendizado constante para construir soluções eficientes.
 ---
 
 ## 🌐 Where to find me
@@ -24,24 +24,19 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 ---
 
-## 🧠 What I do
-
--   ⚡ Performance optimization
--   🧩 Clean architecture & system design
--   🔐 Secure APIs & authentication
--   💳 Payments, subscriptions & business logic
----
-
-## 🛠️ Tech Stack
-
+## 💻 Tecnologias que estudo
 ### Frontend
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/Html-20232A?style=for-the-badge&logo=html)
+![CSS](https://img.shields.io/badge/Css-20232A?style=for-the-badge&logo=css)
 
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-339933?style=for-the-badge&logo=Express)
+![APIREST](https://img.shields.io/badge/APIREST-339933?style=for-the-badge&logo=APIREST)
 
 ### DevOps & Tools
 
@@ -53,16 +48,24 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cleissoncardoso38-collab&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleissoncardoso38-collab&layout=compact&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=cleissoncardoso38-collab&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cleissoncardoso38-collab&layout=compact&theme=tokyonight)
 ---
 
+🎯 Objetivo
+
+Busco minha oportunidade como Desenvolvedor Full Stack Júnior, onde eu possa contribuir com dedicação, aprendizado rápido e visão de crescimento de longo prazo.
+
+Estou focado em evoluir diariamente, construir projetos sólidos e gerar valor real através da tecnologia.
+-----
 ## 🚀 Philosophy
 
 > _"Code is not just about solving problems.  
 > It's about learning how solutions can help to improve, and scale people lifes."_
 
 ---
+
+⚡ Frase que me define
+
+"Disciplina supera motivação. Constância constrói resultados."
